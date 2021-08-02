@@ -17,7 +17,7 @@
 
 ## 本体
 
-1. [搭建VSCODE下STM34F4标准库开发环境](readme-stm32f4-mwlib)
+1. [搭建VSCODE下STM34F4标准库开发环境](readme-stm32f4-mwlib.md)
 
 2. 搭建VSCODE下STM34F1标准库开发环境
 
